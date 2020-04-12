@@ -1,4 +1,4 @@
-const ROOT_HOST_NAME = "http://127.0.0.1:8000";
+const ROOT_HOST_NAME = "http://3.85.8.66";
 
 export const AppService = {
     getList: async function () {
